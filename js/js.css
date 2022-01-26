@@ -1,0 +1,15 @@
+body{
+    background-color: rgb(228, 125, 125);
+}
+.all{
+    margin-top: 300px;
+}
+h2{ 
+    background-color: rgb(248, 0, 50);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: auto;
+    margin: auto;
+    text-align:center;
+
+
+}
