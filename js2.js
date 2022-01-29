@@ -1,4 +1,4 @@
-const email= prompt('Enter your Email');
+const email= prompt('Enter your Email id');
 const passw=prompt('Enter your Password');
 // if(email= 'dexy2020@gmail.com'){
 //     alert('Hurray, you have logged in :D');}
